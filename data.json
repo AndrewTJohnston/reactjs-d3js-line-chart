@@ -1,0 +1,12 @@
+[
+  {"period": 1,   "value": 1.00},
+  {"period": 2,   "value": 0.80},
+  {"period": 3,   "value": 0.64},
+  {"period": 4,   "value": 0.51},
+  {"period": 5,   "value": 0.41},
+  {"period": 6,   "value": 0.33},
+  {"period": 7,   "value": 0.26},
+  {"period": 8,   "value": 0.21},
+  {"period": 9,   "value": 0.17},
+  {"period": 10,  "value": 0.13}
+]

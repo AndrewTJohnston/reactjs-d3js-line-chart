@@ -1,0 +1,33 @@
+.line {
+  fill: none;
+  stroke: #ff0000;
+  stroke-width: 0.7rem;
+  stroke-linecap: round;
+}
+
+.axis {
+  stroke-width: 3pt;
+  stroke-linecap: round;
+}
+
+.tick {
+  stroke-width: 2pt;
+  stroke-linecap: round;
+  font-size: 15pt;
+}
+
+.chart {
+  width: 90%;
+  margin: 0 auto;
+}
+
+.grid .tick line {
+  stroke: #e2e2e2;
+  stroke-width: 0.75pt;
+  stroke-linecap: square;
+  stroke-dasharray: 2pt;
+}
+
+.chart-axis-label, .chart-title {
+  font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+}
